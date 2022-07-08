@@ -46,6 +46,14 @@ footer {
   border-radius: 17px;
 }
 
+.foto3{
+  width:500px; 
+  height: 450px; 
+  border: 3px solid transparent;
+  border-radius: 17px;
+}
+
+
 .slide {
   margin-top: 10px;
 
